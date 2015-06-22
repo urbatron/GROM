@@ -9,5 +9,5 @@ https://dl.dropbox.com/u/1110354/newsletter.psd
 2) Если введеный в поле e-mail прошел валидацию, нужно внести его в базу данных(MySql).
 При выполненнии второй части ТЗ используйте AJAX, Jquery, PHP.
 
-Ответ:
+Решение:
 http://test.urbaso.ru
